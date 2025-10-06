@@ -1,0 +1,8 @@
+# Even amd Odd Number Checker
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+    print("{0} is Even Number".format(num))
+else:
+    print("{0} is Odd Number".format(num))
+# End of the code
+
